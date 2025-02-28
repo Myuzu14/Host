@@ -1,0 +1,17 @@
+{
+	id: "1b432d2e-9d1b-3755-8ae9-bd9bf01174f9"
+	type: "player"
+	player_name: "laviatan"
+	ranks: {
+		1b432d2e-9d1b-3755-8ae9-bd9bf01174f9: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "laviatan"
+		"ftbteams:description": ""
+		"ftbteams:color": "#B6FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

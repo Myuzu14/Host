@@ -1,0 +1,17 @@
+{
+	id: "155230e3-d568-4e73-a3b6-09923d4b0c73"
+	type: "party"
+	owner: "88afaf42-709c-30f3-aa9b-7a2261b530a3"
+	ranks: {
+		88afaf42-709c-30f3-aa9b-7a2261b530a3: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ANJAY"
+		"ftbteams:description": "KENTOT"
+		"ftbteams:color": "#FF057F"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1740717446661L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Chiitsu\"}]}" }]
+	extra: { }
+}

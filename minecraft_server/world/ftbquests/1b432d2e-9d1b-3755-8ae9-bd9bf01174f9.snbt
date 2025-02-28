@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "1b432d2e9d1b37558ae9bd9bf01174f9"
+	name: "laviatan#1b432d2e"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		0470194500CBE26C: 1
+	}
+	started: {
+		1D4E5CDD59FFB7A0: 1740716608927L
+		2574E7CF699D5B45: 1740716608927L
+		0470194500CBE26C: 1740716608927L
+		0000000000000001: 1740716608927L
+	}
+	completed: {
+		2574E7CF699D5B45: 1740716608928L
+		0470194500CBE26C: 1740716608928L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

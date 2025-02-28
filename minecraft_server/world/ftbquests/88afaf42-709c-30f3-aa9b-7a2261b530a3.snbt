@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "88afaf42709c30f3aa9b7a2261b530a3"
+	name: "Chiitsu#88afaf42"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		0470194500CBE26C: 1
+	}
+	started: {
+		1D4E5CDD59FFB7A0: 1740715299283L
+		2574E7CF699D5B45: 1740715299283L
+		0470194500CBE26C: 1740715299283L
+		0000000000000001: 1740715299283L
+	}
+	completed: {
+		2574E7CF699D5B45: 1740715299309L
+		0470194500CBE26C: 1740715299309L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
